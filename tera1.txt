@@ -1,1 +1,2 @@
-#this is  a sampl script to create Vm
+#this is  a sampl script to create VM
+and also we are creating the VM2
